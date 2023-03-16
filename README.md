@@ -7,7 +7,7 @@ Python software engineering
 Heuristic algorithms
 Machine Learning
 
-<a href="https://tqdm.github.io/"><img src="https://user-images.githubusercontent.com/65871712/225751406-20b48c3c-94a4-4fd1-90e8-fa9b247c01f1.png" alt="tqdm" width="300" height="100"></a>
+<a href="https://tqdm.github.io/"><img src="https://user-images.githubusercontent.com/65871712/225751406-20b48c3c-94a4-4fd1-90e8-fa9b247c01f1.png" alt="tqdm" width="200" height="100"></a>
 
 Backend
 Autotests
