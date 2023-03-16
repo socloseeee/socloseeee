@@ -16,3 +16,5 @@ Python software engineering
 ![Data Sciense](https://img.shields.io/badge/DATA%20SCIENCE-orange?logo=jupyter&logoColor=white)
 
 ![Algorithms and data structures](https://img.shields.io/badge/ALGORITHMS%20AND%20DATA%20STRUCTURES-blue?logo=coursera&logoColor=white)
+
+![socloseeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=socloseeee&theme=tokyonight&show_icons=true)
