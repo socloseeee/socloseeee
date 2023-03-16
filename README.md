@@ -7,7 +7,7 @@ Python software engineering
 Heuristic algorithms
 Machine Learning
 
-<a href=https://www.ibm.com/topics/machine-learning><img src"https://user-images.githubusercontent.com/65871712/225750355-5723af5d-41d8-4b1d-a0e3-f5df4683297c.png" alt="MachineLearning"></a>
+<a href="https://tqdm.github.io/"><img src="https://user-images.githubusercontent.com/65871712/218452173-faa8ad53-1248-441a-8638-6685d10fdfe1.png" alt="tqdm" width="100" height="100"></a>
 
 Backend
 Autotests
