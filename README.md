@@ -3,11 +3,11 @@
 <div id="header">
   <img src="https://user-images.githubusercontent.com/65871712/225760628-ece2bb25-c3c9-4c1b-a1c2-d2615ec1eb89.gif" width="300"/>
 </div>
-
+---
 ### Python software engineering
 
 [![Code Wars](https://www.codewars.com/users/socloseeee/badges/large)](https://www.codewars.com/users/socloseeee/)
-
+---
 ### Skills
 
 ![HeuristicAlgorythms](https://img.shields.io/badge/HEURISTIC%20ALGORYTHMS-yellow?logo=github&logoColor=white)
