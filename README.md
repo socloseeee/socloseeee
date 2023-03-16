@@ -6,7 +6,7 @@ Python software engineering
 ### Skills
 Heuristic algorithms
 Machine Learning
-<a href="https://d3hi6wehcrq5by.cloudfront.net/itnavi-blog/posts/social/bb91939980bbb43f2c4f5376960b4cfd.JPG?v=1670836180" alt="MachineLearning" width="100" height="100"></a>
+<a href="https://d3hi6wehcrq5by.cloudfront.net/itnavi-blog/posts/social/bb91939980bbb43f2c4f5376960b4cfd.JPG" alt="MachineLearning" width="100" height="100"></a>
 
 Backend
 Autotests
