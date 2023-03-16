@@ -1,8 +1,9 @@
 ## Hi there, I'm Bogdan 👋
 
 <div id="header">
-  <img src="https://user-images.githubusercontent.com/65871712/225759999-d3a73287-896b-4042-a53e-d595844f55a3.png" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 ### Python software engineering
 
 [![Code Wars](https://www.codewars.com/users/socloseeee/badges/large)](https://www.codewars.com/users/socloseeee/)
