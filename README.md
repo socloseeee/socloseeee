@@ -15,7 +15,7 @@
 ![MachineLearning](https://img.shields.io/badge/MACHINE%20LEARNING-lightgrey?logo=anaconda&logoColor=green)
 
 ![Backend](https://img.shields.io/badge/BACKEND-red?logo=python&logoColor=white)
->Python(Django) + SQL
+>Python(Django) + ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Autotests](https://img.shields.io/badge/AUTOTESTS-informational?logo=PyTest&logoColor=white)
 
