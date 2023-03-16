@@ -15,8 +15,8 @@
 ![MachineLearning](https://img.shields.io/badge/MACHINE%20LEARNING-lightgrey?style=for-the-badge&logo=anaconda&logoColor=green)
 
 ![Backend](https://img.shields.io/badge/BACKEND-red?style=for-the-badge&logo=python&logoColor=white)
-* ![Python(Django)](https://img.shields.io/badge/Python(Django)-316192?logo=django&logoColor=white)
-* ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+* [![Python(Django)](https://img.shields.io/badge/Python(Django)-316192?logo=django&logoColor=white)](https://www.djangoproject.com/)
+* [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ![Autotests](https://img.shields.io/badge/AUTOTESTS-informational?style=for-the-badge&logo=PyTest&logoColor=white)
 
