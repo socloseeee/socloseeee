@@ -10,7 +10,7 @@ Python software engineering
 ![MachineLearning](https://img.shields.io/badge/MACHINE%20LEARNING-lightgrey?logo=anaconda&logoColor=green)
 
 ![Backend](https://img.shields.io/badge/BACKEND-red?logo=python&logoColor=white)
->
+>Python(Jango) + SQL
 
 ![Autotests](https://img.shields.io/badge/AUTOTESTS-informational?logo=PyTest&logoColor=white)
 
