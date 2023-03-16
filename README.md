@@ -2,7 +2,7 @@
 Python software engineering
 
 [![Code Wars](https://www.codewars.com/users/socloseeee/badges/large)](https://www.codewars.com/users/socloseeee/)
-
+---
 ### Skills
 ---
 ![HeuristicAlgorythms](https://img.shields.io/badge/HEURISTIC%20ALGORYTHMS-yellow?logo=github&logoColor=white)
