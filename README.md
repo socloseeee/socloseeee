@@ -1,6 +1,6 @@
 ### Hi there, I'm Bogdan 👋
 Python software engineering
-
+---
 [![Code Wars](https://www.codewars.com/users/socloseeee/badges/large)](https://www.codewars.com/users/socloseeee/)
 ---
 ### Skills
