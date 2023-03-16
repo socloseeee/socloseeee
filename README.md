@@ -11,8 +11,8 @@ Python software engineering
 
 ![Backend](https://img.shields.io/badge/BACKEND-red?logo=python&logoColor=white)
 
-Autotests
+![Autotests](https://img.shields.io/badge/AUTOTESTS-informational?logo=PyTest&logoColor=white)
 
-Data Sciense
+![Data Sciense](https://img.shields.io/badge/DATA%20SCIENCE-orange?logo=jupyter&logoColor=white)
 
-Algorithms and data structures
+![Algorithms and data structures]()
