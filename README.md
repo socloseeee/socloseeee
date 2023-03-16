@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/65871712/225760628-ece2bb25-c3c9-4c1b-a1c2-d2615ec1eb89.gif" width="300"/>
 </div>
 
----
+___
 
 ### Python software engineering
 
