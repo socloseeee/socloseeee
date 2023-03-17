@@ -10,19 +10,19 @@
 ---
 ### Skills
 
-![HeuristicAlgorythms](https://img.shields.io/badge/HEURISTIC%20ALGORYTHMS-yellow?style=for-the-badge&logo=github&logoColor=white)
+[![HeuristicAlgorythms](https://img.shields.io/badge/HEURISTIC%20ALGORYTHMS-yellow?style=for-the-badge&logo=github&logoColor=white)](https://github.com/socloseeee/DSTU_3RD_COURSE/tree/main/heuristic)
 
-![MachineLearning](https://img.shields.io/badge/MACHINE%20LEARNING-lightgrey?style=for-the-badge&logo=anaconda&logoColor=green)
+[![MachineLearning](https://img.shields.io/badge/MACHINE%20LEARNING-lightgrey?style=for-the-badge&logo=anaconda&logoColor=green)](https://conda.io/)
 
-![Backend](https://img.shields.io/badge/BACKEND-red?style=for-the-badge&logo=python&logoColor=white)
+[![Backend](https://img.shields.io/badge/BACKEND-red?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 * [![Python(Django)](https://img.shields.io/badge/Python(Django)-316192?logo=django&logoColor=white)](https://www.djangoproject.com/)
 * [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-![Autotests](https://img.shields.io/badge/AUTOTESTS-informational?style=for-the-badge&logo=PyTest&logoColor=white)
+[![Autotests](https://img.shields.io/badge/AUTOTESTS-informational?style=for-the-badge&logo=PyTest&logoColor=white)](https://swagger.io/)
 
-![Data Sciense](https://img.shields.io/badge/DATA%20SCIENCE-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+[![Data Sciense](https://img.shields.io/badge/DATA%20SCIENCE-orange?style=for-the-badge&logo=jupyter&logoColor=white)](https://matplotlib.org/)
 
-![Algorithms and data structures](https://img.shields.io/badge/ALGORITHMS%20AND%20DATA%20STRUCTURES-blue?style=for-the-badge&logo=coursera&logoColor=white)
+[![Algorithms and data structures](https://img.shields.io/badge/ALGORITHMS%20AND%20DATA%20STRUCTURES-blue?style=for-the-badge&logo=coursera&logoColor=white)](https://stepik.org/cert/1564036)
 
 ---
 
