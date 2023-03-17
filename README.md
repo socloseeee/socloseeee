@@ -26,7 +26,7 @@
 
 ---
 
-#### My contacts:
+### My contacts:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/socloseeee)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='50'>](https://t.me/socloseeee)
