@@ -34,6 +34,8 @@
 
 ![socloseeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=socloseeee&theme=tokyonight&show_icons=true)
 ![socloseeee's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=socloseeee&layout=compact&count_private=true&theme=gruvbox)
-![socloseeee's](https://img.shields.io/github/followers/socloseeee?label=Followers&style=social)
+
+![socloseeee's views](https://komarev.com/ghpvc/?username=socloseeee)
+![socloseeee's Followers](https://img.shields.io/github/followers/socloseeee?label=Followers&style=social)
 
 [![Metrics](https://metrics.lecoq.io/socloseeee?template=classic&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FMoscow)](https://metrics.lecoq.io/insights/socloseeee)
